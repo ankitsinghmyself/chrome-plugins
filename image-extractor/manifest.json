@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Download Image Extension",
+  "name": "Image Downloader",
   "version": "1.0",
   "description": "Adds a download button to images on any webpage.",
   "permissions": [
